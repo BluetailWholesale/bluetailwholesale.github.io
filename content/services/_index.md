@@ -6,6 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Simplifying India’s Fish, Seafood and Meat Supply Network
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We aim to build a tech-enabled B2B platform to transform the way businesses procure and sell fresh fish, seafood and meat
+
