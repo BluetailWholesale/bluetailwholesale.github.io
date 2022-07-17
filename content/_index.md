@@ -3,7 +3,7 @@ title: 'Bluetail Wholesale Private Limited'
 meta_title: 'Bluetail'
 description: "Serif is a modern business theme for Hugo."
 intro_image: "images/illustrations/website graphics (3).svg"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
