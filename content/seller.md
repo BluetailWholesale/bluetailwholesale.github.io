@@ -1,4 +1,5 @@
 ---
 title: 'Join our trusted network to grow your business..'
-layout: Seller
+layout: seller
 ---
+## Join our trusted network to grow your business..
