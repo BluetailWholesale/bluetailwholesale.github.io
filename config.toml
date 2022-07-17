@@ -21,7 +21,7 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/bluetail logo final.svg"
     desktop_height = "36px"
     alt = "Serif - A Hugo Business Theme"
 
