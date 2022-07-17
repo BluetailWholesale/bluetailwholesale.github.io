@@ -2,11 +2,11 @@
 title: 'Bluetail Wholesale Private Limited'
 meta_title: 'Hugo Serif Theme'
 description: "Serif is a modern business theme for Hugo."
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/website graphics (2).svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Simplifying India’s Fish, Seafood and Meat Supply Network
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We aim to build a tech-enabled B2B platform to transform the way businesses procure and sell fresh fish, seafood and meat
