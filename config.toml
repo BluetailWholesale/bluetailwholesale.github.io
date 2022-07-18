@@ -57,13 +57,13 @@ theme = "hugo-serif-theme"
       weight = 1
 
 [[menu.main]]
-    name = "Buyers"
-    url = "/buyers/"
+    name = "Buyer"
+    url = "/buyer/"
       weight = 2
 
   [[menu.main]]
-      name = "Sellers"
-      url = "/sellers/"
+      name = "Seller"
+      url = "/seller/"
       weight = 3
 
   [[menu.main]]
