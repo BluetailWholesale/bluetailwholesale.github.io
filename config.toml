@@ -1,10 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-<<<<<<< HEAD
-title = "Hugo Serif Theme"
-=======
 title = "Bluetail Wholesale Pvt. Ltd."
->>>>>>> 531d0248a0ec052db3808c0936561c5c3db19b25
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
