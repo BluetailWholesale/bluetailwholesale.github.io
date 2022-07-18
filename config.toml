@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Bluetail Wholesale Pvt. Ltd."
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -23,7 +23,7 @@ theme = "hugo-serif-theme"
     mobile_height = "36px"
     desktop = "images/logo/bluetail logo final.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Bluetail Wholesale Pvt. Ltd."
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
