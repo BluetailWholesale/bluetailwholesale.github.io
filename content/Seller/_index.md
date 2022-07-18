@@ -1,5 +1,5 @@
 ---
-title: 'Services'
+title: 'Sellers'
 description: 'We offer a range of services to help your business'
 intro_image: "images/illustrations/website graphics (2).svg"
 intro_image_absolute: true
