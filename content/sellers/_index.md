@@ -7,5 +7,5 @@ intro_image_hide_on_mobile: false
 ---
 
 # Join our trusted network to grow your business..                                       
-```sh
-[Get in touch](https://bluetailwholesale.github.io/contact/) to become our Seller
+
+[| Get in touch |](https://bluetailwholesale.github.io/contact/) to become our Seller
