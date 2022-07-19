@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # We deliver what you want, at your convenience..
 
-## [Get in touch](https://bluetailwholesale.github.io/contact/) to become our Customer
+[| Get in touch |](https://bluetailwholesale.github.io/contact/) to become our Customer
