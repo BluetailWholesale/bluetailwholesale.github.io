@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Join our trusted network to grow your business..                                              
+# Join our trusted network to grow your business..                                       
 
-Get in touch to become our Seller [![conatact](images/logo/contact link.svg)](https://bluetailwholesale.github.io/contact/)
+## [Get in touch](https://bluetailwholesale.github.io/contact/) to become our Seller
