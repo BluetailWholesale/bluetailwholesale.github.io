@@ -2,7 +2,7 @@
 title: 'Bluetail Wholesale Private Limited'
 meta_title: 'Bluetail'
 description: "Bluetail"
-intro_image: "images/illustrations/website graphics (4).svg"
+intro_image: "images/illustrations/website graphics (5).svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
