@@ -1,7 +1,7 @@
 ---
 title: 'Buyer'
 description: 'B2B platform for fish, seafood and meat procurement'
-intro_image: "images/illustrations/buyernew.svg"
+intro_image: "images/illustrations/buyer3.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
